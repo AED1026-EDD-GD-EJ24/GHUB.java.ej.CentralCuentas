@@ -28,7 +28,6 @@ public class Estudiante {
 	
 	//getter y setter
 	
-	
 	public int getCodigo() {
 		return codigo;
 	}
